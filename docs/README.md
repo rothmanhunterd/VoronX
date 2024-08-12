@@ -5,4 +5,3 @@ Vulcan750 is a large format 3D printer with a build volume of 800mm x 800mm by 8
 See [docs](https://rothmanhunterd.github.io/Vulcan750/) for further information.
 
 Docs in Progress.
-Need Final Name.
